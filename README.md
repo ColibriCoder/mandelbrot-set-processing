@@ -1,1 +1,1 @@
-# Mandelbrot Set {processing}
+# Mandelbrot Set Simulation {processing}
