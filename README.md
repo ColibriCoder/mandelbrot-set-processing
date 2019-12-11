@@ -1,1 +1,1 @@
-# mandelbrot-set-processing
+# Mandelbrot Set {processing}
